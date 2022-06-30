@@ -170,9 +170,7 @@ h3 {
 
   .testimonial:last-child {
     grid-column-start: 4;
-    /* grid-row-start: 1;
-    grid-row-end: span 2; */
-    grid-row: 1 / spam 2;
+    grid-row: 1 / span 2;
   }
 }
 
